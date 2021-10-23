@@ -1,0 +1,17 @@
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ServerAPI.Services.deps.json
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ServerAPI.Services.dll
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ref\ServerAPI.Services.dll
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ServerAPI.Services.pdb
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ServerAPI.Data.dll
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ServerAPI.Domain.dll
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ServerAPI.Data.pdb
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\bin\Debug\net5.0\ServerAPI.Domain.pdb
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.csproj.AssemblyReference.cache
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.AssemblyInfoInputs.cache
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.AssemblyInfo.cs
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.csproj.CopyComplete
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.dll
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ref\ServerAPI.Services.dll
+C:\Users\ricka\Desktop\Projetos\Desafio Seventh D-Guard\src\ServerAPI\ServerAPI.Services\obj\Debug\net5.0\ServerAPI.Services.pdb

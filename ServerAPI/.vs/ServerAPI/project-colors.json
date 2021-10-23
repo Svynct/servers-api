@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51ee5ceb-4704-424a-8d64-82e265609e86": {
+      "ProjectGuid": "51ee5ceb-4704-424a-8d64-82e265609e86",
+      "DisplayName": "ServerAPI.Application",
+      "ColorIndex": 0
+    },
+    "628bda86-1461-44c6-8412-c5c77ab6469a": {
+      "ProjectGuid": "628bda86-1461-44c6-8412-c5c77ab6469a",
+      "DisplayName": "ServerAPI.Domain",
+      "ColorIndex": 1
+    },
+    "85d423dc-ff80-4006-9d84-d190e691db7d": {
+      "ProjectGuid": "85d423dc-ff80-4006-9d84-d190e691db7d",
+      "DisplayName": "ServerAPI.Data",
+      "ColorIndex": 2
+    },
+    "80def112-cf73-4dd4-91da-292932afa0d7": {
+      "ProjectGuid": "80def112-cf73-4dd4-91da-292932afa0d7",
+      "DisplayName": "ServerAPI.Services",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "8220124f-2547-41b4-b2e0-55f200c7db24": {
+      "ProjectGuid": "8220124f-2547-41b4-b2e0-55f200c7db24",
+      "DisplayName": "ServerAPI.Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
