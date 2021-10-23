@@ -61,20 +61,28 @@ namespace ServerAPI.Services.Services
             }
             while (!RecyclerService.isExecutando);
 
-            var videos = await _videoRepository.SelectAsync();
-
-            var qtdDias = DateTime.UtcNow.AddDays(RecyclerService.Dias * -1);
-
-            videos = videos.Where(v => v.CreatedAt < qtdDias).ToList();
-
-            foreach (var video in videos)
+            try
             {
-                var removerDoFileServer = Helper.RemoverVideo(video.ServerId, video.Video);
-                await _videoRepository.DeleteAsync(video.Id);
-            }
+                var videos = await _videoRepository.SelectAsync();
 
-            RecyclerService.Dias = 0;
-            RecyclerService.isExecutando = false;
+                var qtdDias = DateTime.UtcNow.AddDays(RecyclerService.Dias * -1);
+
+                videos = videos.Where(v => v.CreatedAt < qtdDias).ToList();
+
+                foreach (var video in videos)
+                {
+                    var removerDoFileServer = Helper.RemoverVideo(video.ServerId, video.Video);
+                    await _videoRepository.DeleteAsync(video.Id);
+                }
+
+                RecyclerService.Dias = 0;
+                RecyclerService.isExecutando = false;
+            }
+            catch (Exception)
+            {
+                RecyclerService.Dias = 0;
+                RecyclerService.isExecutando = false;
+            }
         }
     }
 }
