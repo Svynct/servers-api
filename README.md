@@ -1,4 +1,4 @@
-## Instruções
+## Instruções 👨‍🏫
 
 1. Realize o clone do projeto.
 2. Configure a string de conexão. Você precisará configurar o MySql e rodar a Migration do banco.
@@ -6,7 +6,7 @@
 
 
 
-## Endpoints
+## Endpoints 👨‍💻
 
 * Criar um novo servidor: **/api/servers**
 * Remover um servidor existente: **/api/servers/{serverId}**
